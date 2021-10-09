@@ -24,6 +24,7 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+yes/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -113,3 +114,7 @@ mlruns/
 outputs/
 random_forest_dir/
 multirun/
+
+*.csv
+.vscode/
+cookie-mlflow-step/
